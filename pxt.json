@@ -1,0 +1,21 @@
+{
+    "name": "RoboDog-blocks",
+    "version": "1.0.0",
+    "description": "RoboDog extension for micro:bit",
+    "license": "MIT",
+    "public": true,
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "robodog.ts",
+        "deflib.ts"
+    ],
+    "card": {
+        "name": "RoboDog-blocks",
+        "description": "RoboDog extension for micro:bit",
+        "imageUrl": "https://github.com/junilab/microbit-robodog/blob/main/robodog.png",
+        "color": "blue",
+        "license": "MIT"
+  }
+}
