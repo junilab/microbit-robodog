@@ -1,6 +1,6 @@
 {
     "name": "robodog-blocks",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "로보독 사족로봇",
     "license": "MIT",
     "public": true,
