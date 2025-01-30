@@ -1,5 +1,5 @@
 {
-    "name": "RoboDog-blocks",
+    "name": "로보독 사족로봇",
     "version": "1.0.0",
     "description": "RoboDog extension for micro:bit",
     "license": "MIT",
@@ -12,10 +12,7 @@
         "deflib.ts"
     ],
     "card": {
-        "name": "RoboDog-blocks",
-        "description": "RoboDog extension for micro:bit",
+        "name": "로보독 사족로봇",
         "imageUrl": "https://raw.githubusercontent.com/junilab/microbit-robodog/main/robodog.png",
-        "color": "blue",
-        "license": "MIT"
   }
 }
